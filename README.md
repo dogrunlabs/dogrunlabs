@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" />
+</p>
 <h1 align="center">
 🐶 DogRun Labs
 </h1>

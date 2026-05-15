@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">
+🐶 DogRun Labs
+</h1>
 
-<!--
-**dogrunlabs/dogrunlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building AI × Web3 products for the next generation 🚀
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+AI Agents • Automation • Telegram Mini Apps • Web3
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About
+
+DogRun Labs is focused on building futuristic AI and Web3 experiences.
+
+We create:
+
+- AI Tools
+- Telegram Mini Apps
+- AI Agents
+- Automation Systems
+- Web3 Products
+
+---
+
+## ⚡ Tech Stack
+
+- Python
+- TypeScript
+- Next.js
+- Node.js
+- Solidity
+- OpenAI APIs
+- Telegram APIs
+
+---
+
+## 🌐 Connect
+
+- X/Twitter
+- Telegram
+- YouTube
